@@ -1,0 +1,21 @@
+1. What Is Html 
+   Ans : HyperText Markup Language, Html Need Must be for create website.
+2. Markup Writing System
+   Ans : <> </>
+3. Html All/Some Tags
+Paragraph: <p> This Paragraph Tag </p>
+bold : <b>This is bold tag its bold text</b>
+Strong : <Strong> This Strong But Strong <Strong? and bold <b> both same work </strong>
+italic: <i> this italic tag </i>
+emphasis : <em> this emphasis but emphasis <em> and italic <i> both same work </em> 
+
+none simantic
+ bold : <b></b>
+ italic : <i> </i>
+simantic
+ Strong :  <Strong> </strong>
+ emphasis : <em> </em>
+
+heading : <h1> this all heading tag h1,h2,h3,h4,h5,h6 </h1> this block element
+inline tag: i,b,strong,em,span
+
