@@ -19,3 +19,19 @@ simantic
 heading : <h1> this all heading tag h1,h2,h3,h4,h5,h6 </h1> this block element
 inline tag: i,b,strong,em,span
 
+List item : <li> this is list item </i>
+unorder list: <ul> this unorder list </ul>
+  ul : <ul>
+         <li> this is item</li>
+       </ul>
+  ul : show like point etc
+
+order list : <ol>this is order list <ol>
+  ol : <ol>
+         <li> this is item</li> 
+       </ol>
+   ol : show like number , alphabet etc
+
+division :<div>this contener</div> 
+line breck : <br>
+button : <button> </button>

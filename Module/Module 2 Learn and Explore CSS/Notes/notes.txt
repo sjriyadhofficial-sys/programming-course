@@ -1,0 +1,43 @@
+1. What is css.
+ Ans. Cascading Style Sheets 
+2. Key Point
+Html = Stuchers
+Css = Design
+3. why do we need css.
+ without css
+  website looks plain
+  no layout controls
+  poor user exprience
+
+ with css
+  professional Design
+  better readabillty
+  responsive layouts
+  faster ui updates
+
+4.What Can Css Do?
+ Change text color and size
+ add backgroud image
+ Create layout [flexbox, grid]
+ add hover effects
+ build responsive desings
+ animate elements
+
+5. Types of css
+   inline css : using Style="" attribute 
+   internal css : using <Style> tag to write 
+   external css: using .css filed to write 
+
+6. css seletor
+  class : .classname
+  id: #idname
+  element : li{}
+  unversel : *{} asterisk
+  attribute : input[type="password"]
+
+  group selecet : h1,p use (,)
+span get ony text space
+div work under all element
+
+visibility: hidden; get space 
+display: none; not get space full removed
